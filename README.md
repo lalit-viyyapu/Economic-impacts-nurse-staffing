@@ -2,7 +2,7 @@
 
 This repository contains a research term paper analyzing the relationship between nurse staffing levels and the financial performance of hospitals.
 
-**Course:** American Healthcare
+**Course:** The American Healthcare System
 **Semester:** [Spring 2025]
 **Author:** [Lalit Madhav Viyyapu]
 
